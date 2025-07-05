@@ -1,18 +1,39 @@
- <!DOCTYPE html>
- <html lang="en">
- <head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="style.css">
- </head>
- <body>
+    <title>Song Typing Trainer</title> <link rel="stylesheet" href="style.css">
+</head>
+<body>
     <header>
         <h6>train your skill with your favorite songs</h6>
     </header>
-    <main><div id="covers-grid">
-    </div>
+
+    <main>
+        <section id="song-selection">
+            <h2>Choose Your Song</h2>
+            <div id="loading-message" class="message hidden">Loading songs...</div>
+            <div id="error-message" class="message hidden">Failed to load songs. Please try again.</div>
+            <div id="covers-grid"></div>
+        </section>
+
+        <section id="typing-area" class="hidden">
+            <h2 id="current-song-title">Song Title - Artist Name</h2>
+            <div id="lyrics-display"></div>
+            <textarea id="typing-input" rows="10" placeholder="Start typing here..."></textarea>
+            <div class="controls">
+                <button id="reset-button">Reset</button>
+                <button id="back-to-selection-button">Choose Another Song</button>
+            </div>
+        </section>
     </main>
+    <footer>
+        <p class="information-card">
+        <a href="https://github.com/imyidkwhy" target="_blank">GitHub</a>
+        </p>
+    </footer>
+
     <script type="module" src="./script.js"></script>
- </body>
- </html>
+</body>
+</html>
