@@ -2,7 +2,7 @@
     {
         "author": "The Smiths",
         "title": "I Know It's Over",
-        "cover": "/assets/covers/TheQueenIsDead.jpeg",
+        "cover": "./assets/covers/TheQueenIsDead.jpeg",
         "lyrics": [
             "Oh mother, I can feel",
             "The soil falling over my head",
@@ -64,7 +64,7 @@
     {
         "author": "TV Girl",
         "title": "Loving Machine",
-        "cover": "/assets/covers/WhoReallyCares.jpeg",
+        "cover": "./assets/covers/WhoReallyCares.jpeg",
         "lyrics": [
             "Here she comes walking down the street",
             "Maddie Klein and her fabulous loving machine",
@@ -102,7 +102,7 @@
     {
         "author": "The Smiths",
         "title": "I don't owe you anything",
-        "cover": "/assets/covers/TheSmiths.png",
+        "cover": "./assets/covers/TheSmiths.png",
         "lyrics": [
             "Bought on stolen wine",
             "A nod was the first step",
@@ -147,7 +147,7 @@
     {
         "author": "TV Girl",
         "title": "The Blonde",
-        "cover": "/assets/covers/FrenchExit.jpeg",
+        "cover": "./assets/covers/FrenchExit.jpeg",
         "lyrics": [
             "Who's gonna pay attention",
             "To the redheads of the world",
@@ -188,7 +188,7 @@
     {
         "author": "Mac DeMarco",
         "title": "Ode to Viceroy",
-        "cover": "/assets/covers/2.jpeg",
+        "cover": "./assets/covers/2.jpeg",
         "lyrics": [
             "Early in the mornin'",
             "Just tryna let the sun in",
@@ -215,7 +215,7 @@
     {
         "author": "Mac DeMarco",
         "title": "One Another",
-        "cover": "/assets/covers/ThisOldDog.jpeg",
+        "cover": "./assets/covers/ThisOldDog.jpeg",
         "lyrics": [
             "Hey kid, everybody's prone to some mistakes",
             "If you'd always kept it straight, you'd never learn",
@@ -245,7 +245,7 @@
     {
         "author": "TV Girl",
         "title": "Stay Away(it's like that)",
-        "cover": "/assets/covers/TheNightInQuestion.png",
+        "cover": "./assets/covers/TheNightInQuestion.png",
         "lyrics": [
             "I should have known",
             "By the way that you say nothing much at all",
@@ -253,7 +253,7 @@
             "By the messages you send, but never call",
             "But most of all",
             "I could have seen it in the colors of your hair",
-            "'Cause they don't appear in nature",
+            "Cause they don't appear in nature",
             "Except to warn you of the danger, and I know that you don't care",
             "But I want you to stay (stay)",
             "I want you to stay (stay)",
@@ -282,9 +282,6 @@
             "You're either screening your calls or begging for someone to stay",
             "So stay (stay)",
             "Why don't you stay? (Stay)",
-            "I want you to stay (stay)",
-            "Stay the hell away from me",
-            "Why can't you stay? (Stay)",
             "I want ya to stay (stay)",
             "I just want you to stay (stay)",
             "Stay the hell away from me",
@@ -297,7 +294,7 @@
     {
         "author": "TV Girl",
         "title": "My Girlfriend",
-        "cover": "/assets/covers/LonelyWomen.png",
+        "cover": "./assets/covers/LonelyWomen.png",
         "lyrics": [
             "My girlfriend gets so depressed",
             "She never leaves the house",
@@ -356,7 +353,7 @@
     {
         "author": "TV Girl",
         "title": "Not Allowed",
-        "cover": "/assets/covers/WhoReallyCares.jpeg",
+        "cover": "./assets/covers/WhoReallyCares.jpeg",
         "lyrics": [
             "Now you suck",
             "We wanna talk about sex but we're not allowed",
@@ -404,7 +401,7 @@
     {
         "author": "The Garden",
         "title": "Egg",
-        "cover": "/assets/covers/haha.jpeg",
+        "cover": "./assets/covers/haha.jpeg",
         "lyrics": [
             "I feel like I haven't trudged",
             "But what has changed has been enough",
@@ -440,7 +437,7 @@
     {
         "author": "Mac DeMarco",
         "title": "Go Easy",
-        "cover": "/assets/covers/SaladDays.jpeg",
+        "cover": "./assets/covers/SaladDays.jpeg",
         "lyrics": [
             "Pack it up and leave it, leave it all behind you",
             "Starting fresh in someone else's town",
@@ -467,7 +464,7 @@
     {
         "author": "Banes World",
         "title": "You Say I'm In Love",
-        "cover": "/assets/covers/YouSayI'mInLove.jpeg",
+        "cover": "./assets/covers/YouSayI'mInLove.jpeg",
         "lyrics": [
             "I've been so unafraid",
             "To die alone",
