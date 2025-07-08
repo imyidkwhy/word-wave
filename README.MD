@@ -13,3 +13,4 @@
 ```bash
 git clone https://github.com/imyidkwhy/word-wave
 ```
+## Ссылка на сайт: https://imyidkwhy.github.io/word-wave/
